@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvEmail" type="id" />
+    <item name="textView8" type="id" />
+    <item name="tvPassword" type="id" />
+    <item name="textView6" type="id" />
+    <item name="textView7" type="id" />
+    <item name="listkontak" type="id" />
+    <item name="textView2" type="id" />
+    <item name="edpassword" type="id" />
+    <item name="edemail" type="id" />
+    <item name="btnlogin" type="id" />
+    <item name="imageView" type="id" />
+    <item name="fabSimpan" type="id" />
+</resources>
